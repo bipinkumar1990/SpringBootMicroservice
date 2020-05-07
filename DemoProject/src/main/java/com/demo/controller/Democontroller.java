@@ -13,7 +13,7 @@ public class Democontroller {
 	public Employee getDetails() {
 		
 		Salary sal = new Salary("E001", "ShreeJi", 292929);
-		Employee emp1 = new Employee(1010, "ALASH", sal);
+		Employee emp1 = new Employee(1010, "Avinash", sal);
 		
 	
 		return emp1;
