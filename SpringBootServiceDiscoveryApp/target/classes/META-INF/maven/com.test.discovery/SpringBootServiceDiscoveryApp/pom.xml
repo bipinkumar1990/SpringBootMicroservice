@@ -4,5 +4,6 @@
   <artifactId>SpringBootServiceDiscoveryApp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SpringBootServiceDiscoveryApp</name>
+  
   <description>SpringBootServiceDiscoveryApp</description>
 </project>
