@@ -4,6 +4,8 @@
   <artifactId>SpringBootSecurityApp</artifactId>
   <version>1</version>
   <packaging>jar</packaging>
+  
+  
   <name>SpringBootSecurityApp</name>
   <description>SpringBootSecurityApp</description>
 </project>
