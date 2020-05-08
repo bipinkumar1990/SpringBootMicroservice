@@ -3,7 +3,6 @@
   <groupId>com.test</groupId>
   <artifactId>SpringBootApp</artifactId>
   
-  
   <version>0.0.1-SNAPSHOT</version>
   <name>SpringBootApp</name>
   <description>SpringBootApp</description>
